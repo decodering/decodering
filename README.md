@@ -4,7 +4,7 @@
 </a>
 
 <a href="https://github.com/ikliono/ikliono">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ikliono&line_height=32&hide=Makefile,css,jupyter%20notebook&langs_count=3&count_private=true&theme=vue-dark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ikliono&line_height=32&hide=Makefile,css,jupyter%20notebook,c,assembly,html&langs_count=3&count_private=true&theme=vue-dark" />
 </a>
 </p>
 
