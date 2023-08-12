@@ -1,7 +1,33 @@
-### Hi there 👋
+<p align="center">
+<a href="https://github.com/ikliono/ikliono">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ikliono&include_all_commits=true&hide=contribs&show_icons=true&line_height=32&count_private=true&theme=vue-dark" />
+</a>
+
+<a href="https://github.com/ikliono/ikliono">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ikliono&line_height=32&hide=Makefile,css,jupyter%20notebook&langs_count=3&count_private=true&theme=vue-dark" />
+</a>
+</p>
+
+---
+<p align="center"> 
+<a href="https://github.com/ikliono/ikliono">
+  <img src="https://komarev.com/ghpvc/?username=ikliono&label=Profile%20views&color=0e75b6&style=flat" alt="ikliono" /> 
+</a>
+</p>
+
 
 <!--
 **ikliono/ikliono** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Read more here - https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/managing-your-profile-readme
+
+Inspired from secure-77's profile - https://github.com/secure-77
+
+Starred Themes:
+- vue-dark
+- gotham
+- github_dark
+- apprentice
 
 Here are some ideas to get you started:
 
