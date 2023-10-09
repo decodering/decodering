@@ -21,7 +21,9 @@
 
 Read more here - https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/managing-your-profile-readme
 
-Inspired from secure-77's profile - https://github.com/secure-77
+Inspired from:
+- secure-77's profile - https://github.com/secure-77
+- fpgmas' profile - https://github.com/fpgmaas
 
 Starred Themes:
 - vue-dark
