@@ -1,10 +1,10 @@
 <p align="center">
 <a href="https://github.com/ivanliono/ivanliono">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ivanliono&include_all_commits=true&hide=contribs&show_icons=true&line_height=32&count_private=true&theme=vue-dark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ivanliono&include_all_commits=true&hide=contribs&show_icons=true&line_height=32&count_private=true&theme=rose_pine" />
 </a>
 
 <a href="https://github.com/ivanliono/ivanliono">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ivanliono&line_height=32&hide=Makefile,css,jupyter%20notebook,c,assembly,html&langs_count=3&count_private=true&theme=vue-dark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ivanliono&line_height=32&hide=Makefile,css,jupyter%20notebook,c,assembly,html&langs_count=3&count_private=true&theme=rose_pine" />
 </a>
 </p>
 
