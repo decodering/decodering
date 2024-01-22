@@ -8,6 +8,16 @@
 </a>
 </p>
 
+<details>
+  <summary>Click me</summary>
+  Test section!
+</details>
+
+<details open>
+  <summary>Don't click me</summary>
+  Test section!
+</details>
+
 ---
 <p align="center"> 
 <a href="https://github.com/ivanliono/ivanliono">
