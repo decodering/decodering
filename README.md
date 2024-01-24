@@ -21,6 +21,18 @@ Welcome to my profile - I'm `decodering` and I'm just a guy trying to learn thin
   <img align="center" height=180em src="https://github-readme-stats.vercel.app/api/top-langs/?username=decodering&hide=css,jupyter%20notebook,c,assembly,html&show_icons=true&layout=compact&langs_count=8&count_private=true&theme=rose_pine" />
 
 <!--START_SECTION:waka-->
+
+```txt
+From: 17 January 2024 - To: 24 January 2024
+
+Total Time: 22 mins
+
+Bash         20 mins         ███████████████████▓░░░░░   78.51 %
+Other        4 mins          ████▒░░░░░░░░░░░░░░░░░░░░   16.87 %
+INI          0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.15 %
+Git Config   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.47 %
+```
+
 <!--END_SECTION:waka-->
 
 </p>
