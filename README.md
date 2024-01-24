@@ -20,8 +20,8 @@ Welcome to my profile - I'm `decodering` and I'm just a guy trying to learn thin
   <img align="center" height=180em src="https://github-readme-stats.vercel.app/api?username=decodering&include_all_commits=true&show_icons=true&count_private=true&theme=rose_pine" />
   <img align="center" height=180em src="https://github-readme-stats.vercel.app/api/top-langs/?username=decodering&hide=css,jupyter%20notebook,c,assembly,html&show_icons=true&layout=compact&langs_count=8&count_private=true&theme=rose_pine" />
 
-<!--START_SECTION:waka_code_timer-->
-<!--END_SECTION:waka_code_timer-->
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 </p>
 </details>
