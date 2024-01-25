@@ -1,6 +1,6 @@
 ### Hi there visitor! 👋
 
-Welcome to my profile - I'm `decodering` and I'm just a guy trying to learn things (mainly data, code and engineering related). Enjoy your stay! 🌱
+Welcome to my profile - I'm `decodering` and I'm just a guy trying to learn things (mainly data, code and engineering related) 🌱
 
 ### Find me online 🌐
 
@@ -13,13 +13,8 @@ Welcome to my profile - I'm `decodering` and I'm just a guy trying to learn thin
 <INSERT LINKEDIN?>
 -->
 
-<details>
-<summary>My Github Stats 👇</summary>
-<p align="center"><br>
-  
-  <img align="center" height=180em src="https://github-readme-stats.vercel.app/api?username=decodering&include_all_commits=true&show_icons=true&count_private=true&theme=rose_pine" />
-  <img align="center" height=180em src="https://github-readme-stats.vercel.app/api/top-langs/?username=decodering&hide=css,jupyter%20notebook,c,assembly,html&show_icons=true&layout=compact&langs_count=8&count_private=true&theme=rose_pine" />
-
+<details open>
+<summary>Coding time by language this past week 👇</summary>
 <!--START_SECTION:waka-->
 
 ```txt
@@ -34,15 +29,23 @@ Git Config   0 secs          ▒░░░░░░░░░░░░░░░░
 ```
 
 <!--END_SECTION:waka-->
+</details>
 
-</p>
+<details>
+<summary>My GitHub Stats 👇</summary>
+<br />
+<div align="center">
+  <img align="center" height=180em src="https://github-readme-stats.vercel.app/api?username=decodering&include_all_commits=true&show_icons=true&count_private=true&theme=rose_pine" />
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img align="center" height=180em src="https://github-readme-stats.vercel.app/api/top-langs/?username=decodering&hide=css,jupyter%20notebook,c,assembly,html&show_icons=true&layout=compact&langs_count=8&count_private=true&theme=rose_pine" />
+</div>
 </details>
 
 ---
 
-<p align="center"> <a href="https://github.com/decodering/decodering">
+<a align="left" href="https://github.com/decodering/decodering">
   <img src="https://komarev.com/ghpvc/?username=decodering&label=Profile%20views&color=0e75b6&style=flat" alt="decodering" /> 
-</a> </p>
+</a>
 
 
 <!--
