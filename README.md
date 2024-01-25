@@ -1,6 +1,6 @@
 ### Hi there visitor! 👋
 
-Welcome to my profile - I'm `decodering` and I'm just a guy trying to learn things (mostly around data, code and engineering adjacent topics) 🌱
+Welcome to my profile - I'm `decodering` and I'm just a guy trying to learn things (mostly around data, programming and engineering adjacent topics) 🌱
 
 ### Find me online 🌐
 
