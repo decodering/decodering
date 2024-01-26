@@ -6,7 +6,7 @@ on:
   # for manual workflow trigger
   workflow_dispatch:
   schedule:
-    # runs at 12 AM UTC (5:30 AM IST)
+    # runs every 12 hours (at 6AM and 12 AM UTC (5:30 AM IST))
     - cron: "0 */12 * * *"
 
 jobs:
