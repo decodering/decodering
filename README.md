@@ -18,14 +18,13 @@ Welcome to my profile - I'm `decodering` and I like learning things (mostly arou
 <!--START_SECTION:waka-->
 
 ```txt
-From: 27 January 2024 - To: 03 February 2024
+From: 28 January 2024 - To: 04 February 2024
 
-Total Time: 20 mins
+Total Time: 13 mins
 
-Markdown     12 mins         ███████████████░░░░░░░░░░   59.54 %
-Bash         6 mins          ████████░░░░░░░░░░░░░░░░░   31.69 %
-YAML         1 min           █▓░░░░░░░░░░░░░░░░░░░░░░░   07.08 %
-Git Config   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.69 %
+Markdown     12 mins         █████████████████████▓░░░   87.14 %
+YAML         1 min           ██▓░░░░░░░░░░░░░░░░░░░░░░   10.38 %
+Git Config   0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.48 %
 ```
 
 <!--END_SECTION:waka-->
