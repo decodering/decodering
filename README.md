@@ -18,13 +18,11 @@ Welcome to my profile - I'm `decodering` and I like learning things (mostly arou
 <!--START_SECTION:waka-->
 
 ```txt
-From: 04 February 2024 - To: 11 February 2024
+From: 05 February 2024 - To: 12 February 2024
 
-Total Time: 54 mins
+Total Time: 0 secs
 
-Bash    53 mins         ████████████████████████░   95.57 %
-INI     1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.74 %
-Other   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.69 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
