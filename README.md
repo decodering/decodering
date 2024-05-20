@@ -1,12 +1,12 @@
-<h2 align="center">👋 Hello! I'm <code>decodering</code>.</h2>
+<h2 align="center">👋 Hi there! I'm <code>decodering</code>.</h2>
 <p align="center">
   <a href="https://stackoverflow.com/users/10002593/decodering">Gihub</a> •
   Twitter/X (wip)
 </p>
 
-### Hi there visitor! 👋
+### Welcome visitor! ✨
 
-Welcome to my profile - I'm `decodering` and I like tinkering with code + learning new things (mostly around data, programming and engineering adjacent topics) 🌱 Enjoy your ~stalk~ stay!
+I'm `decodering` and I like tinkering with code + learning new things (mostly around data, programming and engineering adjacent topics) 🌱 Enjoy your ~stalk~ stay!
 
 ### Find me online 🌐
 
@@ -20,7 +20,7 @@ Welcome to my profile - I'm `decodering` and I like tinkering with code + learni
 -->
 
 <details open>
-<summary>Stats</summary>
+<summary><b>Stats</b></summary>
 <br />
 <b>📊 Weekly development breakdown</b>
 
@@ -35,16 +35,16 @@ Markdown   1 min           █████████████████�
 ```
 
 <!--END_SECTION:waka-->
-</details>
 
 <details>
-<summary>My GitHub Overview 👇</summary>
+<summary><b>GitHub Overview</b></summary>
 <br />
 <div align="center">
   <img align="center" height=180em src="https://github-readme-stats.vercel.app/api?username=decodering&include_all_commits=true&show_icons=true&count_private=true&theme=rose_pine" />
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img align="center" height=180em src="https://github-readme-stats.vercel.app/api/top-langs/?username=decodering&hide=css,jupyter%20notebook,c,assembly,html&show_icons=true&layout=compact&langs_count=8&count_private=true&theme=rose_pine" />
 </div>
+</details>
 </details>
 
 ---
