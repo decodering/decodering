@@ -1,6 +1,12 @@
+<h2 align="center">👋 Hello! I'm <code>decodering</code>.</h2>
+<p align="center">
+  <a href="https://stackoverflow.com/users/10002593/decodering">Gihub</a> •
+  Twitter/X (wip)
+</p>
+
 ### Hi there visitor! 👋
 
-Welcome to my profile - I'm `decodering` and I like learning things (mostly around data, programming and engineering adjacent topics) 🌱 Feel free to have a look around!
+Welcome to my profile - I'm `decodering` and I like tinkering with code + learning new things (mostly around data, programming and engineering adjacent topics) 🌱 Enjoy your ~stalk~ stay!
 
 ### Find me online 🌐
 
@@ -14,7 +20,10 @@ Welcome to my profile - I'm `decodering` and I like learning things (mostly arou
 -->
 
 <details open>
-<summary>Coding time by language this past week 👇</summary>
+<summary>Stats</summary>
+<br />
+<b>📊 Weekly development breakdown</b>
+
 <!--START_SECTION:waka-->
 
 ```txt
@@ -29,7 +38,7 @@ Markdown   1 min           █████████████████�
 </details>
 
 <details>
-<summary>My GitHub Stats 👇</summary>
+<summary>My GitHub Overview 👇</summary>
 <br />
 <div align="center">
   <img align="center" height=180em src="https://github-readme-stats.vercel.app/api?username=decodering&include_all_commits=true&show_icons=true&count_private=true&theme=rose_pine" />
