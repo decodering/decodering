@@ -27,11 +27,13 @@ I'm `decodering` and I like tinkering with code + learning new things (mostly ar
 <!--START_SECTION:waka-->
 
 ```txt
-From: 11 May 2024 - To: 18 May 2024
-
-Total Time: 1 min
-
-Markdown   1 min           █████████████████████████   100.00 %
+TOML       1 hr 18 mins    ██████▓░░░░░░░░░░░░░░░░░░   26.35 %
+Other      1 hr 17 mins    ██████▓░░░░░░░░░░░░░░░░░░   26.14 %
+Bash       1 hr 9 mins     ██████░░░░░░░░░░░░░░░░░░░   23.45 %
+Lua        56 mins         ████▓░░░░░░░░░░░░░░░░░░░░   19.11 %
+INI        9 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.07 %
+Markdown   3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.13 %
+JSON       2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.75 %
 ```
 
 <!--END_SECTION:waka-->
