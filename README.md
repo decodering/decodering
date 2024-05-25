@@ -27,13 +27,13 @@ I'm `decodering` and I like tinkering with code + learning new things (mostly ar
 <!--START_SECTION:waka-->
 
 ```txt
-Bash       4 hrs 34 mins   ██████████░░░░░░░░░░░░░░░   39.35 %
-Lua        2 hrs 53 mins   ██████▒░░░░░░░░░░░░░░░░░░   24.82 %
-Other      2 hrs 26 mins   █████▒░░░░░░░░░░░░░░░░░░░   20.93 %
-TOML       1 hr 19 mins    ███░░░░░░░░░░░░░░░░░░░░░░   11.43 %
-Markdown   12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.84 %
-INI        9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.31 %
-JSON       2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 %
+Bash       4 hrs 42 mins   ██████████░░░░░░░░░░░░░░░   40.07 %
+Lua        2 hrs 53 mins   ██████░░░░░░░░░░░░░░░░░░░   24.52 %
+Other      2 hrs 26 mins   █████▒░░░░░░░░░░░░░░░░░░░   20.68 %
+TOML       1 hr 19 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   11.30 %
+Markdown   12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.82 %
+INI        9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.29 %
+JSON       2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 %
 ```
 
 <!--END_SECTION:waka-->
