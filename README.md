@@ -27,12 +27,7 @@ I'm `decodering` and I like tinkering with code + learning new things (mostly ar
 <!--START_SECTION:waka-->
 
 ```txt
-Other      2 hrs 19 mins   ██████████████░░░░░░░░░░░   56.00 %
-Bash       1 hr 5 mins     ██████▓░░░░░░░░░░░░░░░░░░   26.18 %
-Lua        18 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.46 %
-TOML       18 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.26 %
-JSON       7 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.09 %
-Markdown   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
