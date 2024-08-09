@@ -27,14 +27,7 @@ I'm `decodering` and I like tinkering with code + learning new things (mostly ar
 <!--START_SECTION:waka-->
 
 ```txt
-Markdown   30 mins         ███████████████░░░░░░░░░░   59.59 %
-Python     13 mins         ██████▒░░░░░░░░░░░░░░░░░░   25.70 %
-Makefile   5 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.99 %
-Text       0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.68 %
-Bash       0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.50 %
-Other      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 %
-TOML       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 %
-INI        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
